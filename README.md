@@ -1,7 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://emojis.slackmojis.com/emojis/images/1643515386/5197/party_blob.gif?1643515386" width="30"/>
-    Hi, I'm Aayush Sharma
+    Hi, I'm Aayush Sharma 👋
   </h1>
   
   <p>
