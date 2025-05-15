@@ -1,64 +1,56 @@
-<h2 align="left">Hi👋! My name is Aayush Sharma and I'm a Full Stack Developer.</h2>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=aayush-sharma001" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=aayush-sharma001" height="150" alt="languages graph"  />
+<div align="center">
+  <h1>
+    <img src="https://emojis.slackmojis.com/emojis/images/1643515386/5197/party_blob.gif?1643515386" width="30"/>
+    Hi, I'm Aayush Sharma
+  </h1>
+  
+  <p>
+    Full Stack Developer | Open Source Contributor | JavaScript Enthusiast
+  </p>
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="38" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="38" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="38" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="38" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" width="38" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" width="38" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="38" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" width="38" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="38" alt="mysql logo"  />
-</div>
+### 👨‍💻 About Me
 
-###
+I'm a curious and creative full-stack developer who loves turning ideas into fast, functional, and beautiful web apps. Whether it’s a Chrome extension, a responsive website, or a system-level tool — I build it from scratch and make it scale.
 
-<img align="right" height="160" src="https://media3.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47cqk09fzfgheh86k2wg3y5ijmo0maa1s5wgm736hl&rid=giphy.gif&ct=g"  />
+- 💻 Code fluently in **React**, **Next.js**, and **Node.js**  
+- ⚒️ Build **full-stack solutions** — from UI to backend  
+- 🚀 Shipped **production apps** used by 100K+ users  
+- 🧠 Obsessed with **clean code** and **scalable architecture**  
+- 🎨 Passionate about **intuitive UX** and **performance**  
+- 🔍 Constantly exploring **AI integrations** and **system design**  
+- 🤝 Open for **collaborations** and **new challenges**  
+- 📬 Let's build something **impactful together**
 
-###
+When I'm not coding, you'll find me:
+- 🌄 Chasing mountain sunrises in the Himalayas.
+- 📚 Deep-diving into tech whitepapers with a coffee.
+- 🏐 Playing outdoor games.
 
-<div align="left">
-  <a href="aayush001sharma@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/aayush-sharma001/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/sparkyaayush/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="35" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="35" alt="telegram logo"  />
-</div>
+---
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="55" height="35" alt="hackerrank logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="55" height="35" alt="visualstudio logo"  />
-</div>
-
-###
-
-<br clear="both">
-
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/aayush-sharma001/count.svg?"  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aayush-sharma001&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-sharma001&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-sharma001&theme=transparent&hide_border=true" width="48%" alt="Streak Stats"/>
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=aayush-sharma001&margin-w=4&no-bg=true&no-frame=true&rank=-C" width="48%" alt="Trophies"/> -->
+</div>
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aayush-sharma001)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/sparkyaayush)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:aayush001sharma@gmail.com)
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/aayush-sharma001/count.svg" alt="Visitor Counter"/>
+</div>
