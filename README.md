@@ -39,7 +39,6 @@ When I'm not coding, you'll find me:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-sharma001&theme=transparent&hide_border=true" width="48%" alt="Streak Stats"/>
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=aayush-sharma001&margin-w=4&no-bg=true&no-frame=true&rank=-C" width="48%" alt="Trophies"/> -->
 </div>
 
 ---
