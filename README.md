@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hi, I'm Aayush Sharma 👋
+    👋 Hi, I'm Aayush Sharma
   </h1>
   
   <p>
