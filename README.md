@@ -27,6 +27,7 @@ When I'm not coding, you'll find me:
 - 🌄 Chasing mountain sunrises in the Himalayas.
 - 📚 Deep-diving into tech whitepapers with a coffee.
 - 🏐 Playing outdoor games.
+- 🥋 Martial Arts
 
 ---
 
